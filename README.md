@@ -1,4 +1,4 @@
-# Integral and Evolutive proyect
+# Integral and Evolutive project
 
 The purpose of this project is to strengthen the use and knowledge of the Python programming language by utilizing its different functions and iterators, creating simple functions and lambda functions. 
 
