@@ -17,12 +17,12 @@ As a to-do list, we can enumerate the following:
 4. Perform the specific queries requested. As a plus, you can create a function that automates the query so that only the variables need to be entered. As an extra point, you can create a class that contains all the query functions and is activated by a user menu.
 
 
-A)  Quantity of movies and series by platform
+A)  Quantity of movies by platform
 
-B) Director that has the most quantity of movies by platform
+B) Top 3 directors that has the most quantity of movies by platform
 
-C) Maximun duration of movies/series by platform and year
+C) Top 3 movies with maximun duration by platform
 
-D) movies that are exclusive of each platform (example: type the platform netflix and return all the movies that just apear on the netflx data frame)
+D) Top 3 actors with more movies by platfomr
 
-E) Search for the most popular actor by platform
+5. Create a PowerBi dash board to present the information
